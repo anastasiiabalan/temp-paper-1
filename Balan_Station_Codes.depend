@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1623359889 source:c:\users\public\codeblock\balan_station_codes\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+	<stdio.h>
+

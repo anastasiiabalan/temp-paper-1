@@ -1,0 +1,6 @@
+Baz-driver-10-female-40-true-1-9000-true-
+Gorodn-driver-10-male-45-true-2-10000-true-
+Rubchuk-driver-15-male-30-false-0-8000-false-
+Radchuk-driver-15-male-50-true-2-8000-true-
+Fedunka-driver-5-male-50-true-1-12000-true-
+Fedork-driver-15-male-30-false-0-8000-true-

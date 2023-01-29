@@ -1,0 +1,6 @@
+Locom1-true-11:13-1000-false-false-20-340-20- 
+Locom2-true-15:16-1200-true-true-30-370-34- 
+Locom3-false-17:23-2100-true-true-45-467-59- 
+Locom4-true-11:13-1000-false-true-30-370-20- 
+Locom5-false-11:13-1200-true-true-30-340-34- 
+Locom6-false-17:23-2100-false-true-45-467-59- 

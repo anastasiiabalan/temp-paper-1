@@ -1,0 +1,17 @@
+Bueer-LK-true-true-true-male-30-
+Burer-LK-true-false-true-male-25-
+Bukur-LK-true-false-false-male-40-
+Bakan-LK-false-false-false-male-35-
+Grab-KL-true-true-true-male-30-
+Gtyp-KL-true-false-true-male-25-
+Gyup-KL-true-false-true-male-40-
+Kiser-KL-false-false-false-male-35-
+Kisilov-TL-true-true-true-male-30-
+Kiziv-TL-true-false-true-female-25-
+Kixir-TL-true-true-true-female-40-
+Manyt-TL-false-false-false-female-35-
+Maskl-TL-true-false-true-female-30-
+Mhut-KT-true-true-true-female-25-
+Weir-KT-true-false-true-female-40-
+Weiyu-KT-true-true-true-female-35-
+Wehrov-KT-true-false-true-female-30-
